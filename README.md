@@ -19,11 +19,11 @@ With a rich decade-long journey in software development, I've had the honor of c
 
 ### 🌟 Highlights
 - 🏆 Rated as the top instructor at Masai School for my engaging and practical teaching methods.
-- 📹 Educational content creator with a wealth of [YouTube](https://www.youtube.com/channel/UCYOURCHANNEL) videos.
+- 📹 Educational content creator with a wealth of [YouTube](https://www.youtube.com/@coding-aasaan-hain) videos.
 - 📝 Technical writer with insightful articles on [Strapi CMS](https://strapi.io/blog/how-to-create-a-custom-api-endpoint-in-strapi) and [Drupal CMS](https://www.drupal.org/docs/7/api/database-api/dynamic-queries).
 
 ### 📈 Open Source Contributions
-- 🌐 Contributed to open-source projects, including [Project Name](https://github.com/link-to-project) and [Another Project](https://github.com/link-to-another-project).
+- 🌐 Contributed to open-source projects, including [Strapi](https://github.com/vivmagarwal/strapi-plugin-custom-api-builder) and [GPT-4 Apps](https://github.com/vivmagarwal/GPT-4-Student-Assistant-BOT).
 - 🛠️ Regular commits to personal and collaborative projects on GitHub, demonstrating continuous learning and improvement.
 
 ### 🤝 Let's Connect
