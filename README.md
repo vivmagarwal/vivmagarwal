@@ -23,8 +23,8 @@ I’m building **[EDodo.app](https://edodo.app/)**—a community-driven platform
   - advanced modules for every course (included for Platinum)
 
 Explore:
-- **Books authored:** https://edodo.app/books  *(“Practical handbooks grounded in cognitive science and the science of learning.”)* [Source](https://edodo.app/books)
-- **Articles / blog posts:** https://edodo.app/articles  *(AI-powered teaching strategies + research-backed pedagogy in the AI era.)* [Source](https://edodo.app/articles)
+- **Books authored:** https://edodo.app/books  *(“Practical handbooks grounded in cognitive science and the science of learning.”)* 
+- **Articles / blog posts:** https://edodo.app/articles  *(AI-powered teaching strategies + research-backed pedagogy in the AI era.)*
 
 ---
 
@@ -58,8 +58,8 @@ Early builds:
 ## Open Source Contributions
 
 - 🌐 Contributed to open-source projects, including:
-  - **[Strapi](https://github.com/vivmagarwal/strapi-plugin-custom-api-builder)** (custom API builder plugin) [Source](https://github.com/vivmagarwal/strapi-plugin-custom-api-builder)
-  - **[GPT-4 Apps](https://github.com/vivmagarwal/GPT-4-Student-Assistant-BOT)** [Source](https://github.com/vivmagarwal/GPT-4-Student-Assistant-BOT)
+  - **[Strapi](https://github.com/vivmagarwal/strapi-plugin-custom-api-builder)** (custom API builder plugin) 
+  - **[GPT-4 Apps](https://github.com/vivmagarwal/GPT-4-Student-Assistant-BOT)** 
 - 🛠️ Regular commits across personal and collaborative projects—continuous learning, shipping, and iteration.
 
 ---
@@ -67,11 +67,11 @@ Early builds:
 ## Writing & Teaching
 
 ### Technical writing
-- Strapi CMS: *How to create a custom API endpoint in Strapi* [Source](https://strapi.io/blog/how-to-create-a-custom-api-endpoint-in-strapi)
-- Drupal CMS: *Dynamic queries (Drupal 7 Database API)* [Source](https://www.drupal.org/docs/7/api/database-api/dynamic-queries)
+- Strapi CMS: *How to create a custom API endpoint in Strapi* 
+- Drupal CMS: *Dynamic queries (Drupal 7 Database API)* 
 
 ### Educational content
-- YouTube: https://www.youtube.com/@coding-aasaan-hain [Source](https://www.youtube.com/@coding-aasaan-hain)
+- YouTube: https://www.youtube.com/@coding-aasaan-hain 
 
 ### Interviews
 - YouTube: https://www.youtube.com/watch?v=Bm_1kM0rIFM 
