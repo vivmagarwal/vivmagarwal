@@ -2,7 +2,7 @@
 
 # Vivek M Agarwal
 
-I've written code since 1999, and I've taught meditation and yoga since 2007. I've been a director at two companies: Director of Curriculum & Pedagogy at Masai School, and now Director of Learning & Development at Axelerant, where I lead engineers and educators. I'm also an ICF-trained coach and an NLP Practitioner.
+I've written code since 1999, and I've taught meditation and yoga since 2007. I've been a director at two companies: Director of Curriculum & Pedagogy at Masai School, and now Director of Learning & Development at Axelerant, where I lead engineers and educators. I'm also an ICF-trained coach and an NLP & EFT Practitioner.
 
 The two halves meet in one idea I call Logic + Magic. First, understand in plain logic why your mind does what it does. Then use a short, practical tool that changes how you feel in a minute or two. I'm writing a book on it, *The Overthinking Elephant*.
 
